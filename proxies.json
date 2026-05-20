@@ -1,0 +1,458 @@
+[
+  {
+    "login": "cuczz012hg-a1a8f07a-9590-4b99-aaff-4eb547d5e9d1",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f07a-9590-4b99-aaff-4eb547d5e9d1:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1a-43e0-4704-b140-0b84eecaaa5a",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1a-43e0-4704-b140-0b84eecaaa5a:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-bb12ddfe-2559-434d-b0be-9e63fdcb574a",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-bb12ddfe-2559-434d-b0be-9e63fdcb574a:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f076-4cfa-41af-9b98-a4b95afbc8f9",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f076-4cfa-41af-9b98-a4b95afbc8f9:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a01f5c-33bb-4df4-83da-b884aaa54ea6",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a01f5c-33bb-4df4-83da-b884aaa54ea6:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a7ba6d56-fced-4c18-b7b7-c279310fd29d",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a7ba6d56-fced-4c18-b7b7-c279310fd29d:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-55498780-1d3b-411c-8e12-351a4c46f845",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-55498780-1d3b-411c-8e12-351a4c46f845:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1b-895d-4991-8578-59d6664b9f65",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1b-895d-4991-8578-59d6664b9f65:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-beb3fead-ec2a-4fe5-a18f-e1ecfe443157",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-beb3fead-ec2a-4fe5-a18f-e1ecfe443157:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-8a273485-3848-430d-bc92-730bf32fa317",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-8a273485-3848-430d-bc92-730bf32fa317:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1b-a84a-49e3-8cfd-9d37e0e8316d",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1b-a84a-49e3-8cfd-9d37e0e8316d:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-6380626f-983a-4cdf-ab7a-b6a3df106918",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-6380626f-983a-4cdf-ab7a-b6a3df106918:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-7bff762a-4059-4237-bd3a-474ea2c89ae9",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-7bff762a-4059-4237-bd3a-474ea2c89ae9:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-7d11900c-f973-4b42-b109-4eb6393ed20a",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-7d11900c-f973-4b42-b109-4eb6393ed20a:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f076-6d94-473e-aaea-d204c0d4804d",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f076-6d94-473e-aaea-d204c0d4804d:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1a-0ba9-42e5-a959-f4f63638bf61",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1a-0ba9-42e5-a959-f4f63638bf61:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1b-90c3-4088-9177-b70c0fb90532",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1b-90c3-4088-9177-b70c0fb90532:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-4c86b222-6b1c-405c-a660-5dc12ef8ea4e",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-4c86b222-6b1c-405c-a660-5dc12ef8ea4e:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f079-1329-41ec-8224-db99a884a2f9",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f079-1329-41ec-8224-db99a884a2f9:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f078-fc0d-4a54-836d-1292561a6619",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f078-fc0d-4a54-836d-1292561a6619:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1a-1ecb-43d4-bb51-3b51a5f48a13",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1a-1ecb-43d4-bb51-3b51a5f48a13:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-3a1f1a1b-a9a3-4023-b1a1-e7f6b4fbffb7",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-3a1f1a1b-a9a3-4023-b1a1-e7f6b4fbffb7:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f07a-9797-488c-a113-caed7aea446d",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f07a-9797-488c-a113-caed7aea446d:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-629d8a1e-b263-424d-850d-1b68f185061d",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-629d8a1e-b263-424d-850d-1b68f185061d:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-aaa50e17-7c5f-4e57-8adf-43f623e28a4b",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-aaa50e17-7c5f-4e57-8adf-43f623e28a4b:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-090129b0-02ac-4947-a952-4be00bd03348",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-090129b0-02ac-4947-a952-4be00bd03348:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-8f23c677-d962-4569-84f9-a2ab5001cd36",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-8f23c677-d962-4569-84f9-a2ab5001cd36:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-2206166f-bee6-4d9f-bbf8-81d153ce3838",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-2206166f-bee6-4d9f-bbf8-81d153ce3838:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f07a-a4c4-46ff-a001-6d8910394684",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f07a-a4c4-46ff-a001-6d8910394684:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-dc578fbb-ff0d-4135-a9da-d8b055515ac0",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-dc578fbb-ff0d-4135-a9da-d8b055515ac0:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-30ffed32-cb06-4d29-8f19-0119fb2ca121",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-30ffed32-cb06-4d29-8f19-0119fb2ca121:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1a-21b0-42e9-8398-58fbc9366d86",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1a-21b0-42e9-8398-58fbc9366d86:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a9d5cc-7ff3-4e22-a92c-ac1863da9a3c",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a9d5cc-7ff3-4e22-a92c-ac1863da9a3c:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1c-c4e7-428c-a6ad-cbd9e5bf067f",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1c-c4e7-428c-a6ad-cbd9e5bf067f:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-49767d9d-e7ab-4c7c-9778-0df3bda066e1",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-49767d9d-e7ab-4c7c-9778-0df3bda066e1:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-955735fe-5638-49c1-97dc-41a890925d1a",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-955735fe-5638-49c1-97dc-41a890925d1a:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a8f076-6caa-4508-90e3-302bfffc2416",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a8f076-6caa-4508-90e3-302bfffc2416:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-d60e6343-31b4-44cb-8b64-76bea08347a0",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-d60e6343-31b4-44cb-8b64-76bea08347a0:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a134b4e4-4f02-4252-ac96-913c929963d2",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a134b4e4-4f02-4252-ac96-913c929963d2:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-3a07fa1a-8bdc-4bba-9091-cf430c930220",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-3a07fa1a-8bdc-4bba-9091-cf430c930220:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-7c411e59-4558-43e7-84e2-062ea8d6d5ad",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-7c411e59-4558-43e7-84e2-062ea8d6d5ad:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-ec56151e-f15c-4e50-af60-32dcfff34d98",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-ec56151e-f15c-4e50-af60-32dcfff34d98:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-aec68c39-0c7f-44fd-b11b-4c80218f6a08",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-aec68c39-0c7f-44fd-b11b-4c80218f6a08:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1a01f5e-cb36-48fa-b579-f534dddea73b",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1a01f5e-cb36-48fa-b579-f534dddea73b:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1a-30e7-485f-9d9f-84ee754e9233",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1a-30e7-485f-9d9f-84ee754e9233:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1b-bba6-40c9-be49-09bd8a785fc6",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1b-bba6-40c9-be49-09bd8a785fc6:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-b22fad93-0445-424d-8045-38ca1a6d43a2",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-b22fad93-0445-424d-8045-38ca1a6d43a2:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-faf3ad0e-6fcf-4156-91f7-092a88c9c3f3",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-faf3ad0e-6fcf-4156-91f7-092a88c9c3f3:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1a-16ee-41a1-8edf-e9a6b9bc7823",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1a-16ee-41a1-8edf-e9a6b9bc7823:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-971c5faa-51af-4a80-8d3a-3ac9d80f8a7b",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-971c5faa-51af-4a80-8d3a-3ac9d80f8a7b:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-2a2c110c-96cf-45b1-b097-96907b9715cc",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-2a2c110c-96cf-45b1-b097-96907b9715cc:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-7b530fdd-a174-48f3-b483-3f014836ff7f",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-7b530fdd-a174-48f3-b483-3f014836ff7f:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a6697b05-cffc-4522-95e2-fd056ef8e0b7",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a6697b05-cffc-4522-95e2-fd056ef8e0b7:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-b20f81b0-2426-4b48-9fd4-373341f26aab",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-b20f81b0-2426-4b48-9fd4-373341f26aab:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-3a437824-61d8-4cc9-9919-2badef5809c5",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-3a437824-61d8-4cc9-9919-2badef5809c5:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-a1ad8d1b-6bea-44a7-be57-6520231b8802",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-a1ad8d1b-6bea-44a7-be57-6520231b8802:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  },
+  {
+    "login": "cuczz012hg-4a993400-b83f-40c1-8135-ee57edcd3417",
+    "password": "LCJ1ArZU4ZWsqXSN",
+    "protocol": "http",
+    "host": "190.2.155.93",
+    "port": 9999,
+    "template_string": "curl -x http://cuczz012hg-4a993400-b83f-40c1-8135-ee57edcd3417:LCJ1ArZU4ZWsqXSN@190.2.155.93:9999 https://i.pn"
+  }
+]
